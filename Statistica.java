@@ -22,7 +22,7 @@ public class Statistica {
 		}
 		scannerIntervale.close();
 		
-		File fisierNr=new File("C:\\Users\\User\\eclipse-workspace\\Tema4\\numere.dat");
+		File fisierNr=new File("D:\\eclipse-workspace\\Tema 4\\numere.dat");
 		Scanner scannerNr=new Scanner(fisierNr);
 		double[] nrCitite=new double[100];
 		int totalElemente=0;
